@@ -25,7 +25,7 @@ static
                     ...
                     popup.scss
                     variables.scss
-                base-components.scss // this just pulls in all the components
+                styleguide.scss // this just pulls in all the components
     js
         lib
             backbone.js
